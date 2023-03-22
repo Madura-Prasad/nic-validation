@@ -2,6 +2,6 @@ Using Technology:
 <li>
 Front-End: JSP</li>
 <li>
-<br>Back-End: JAVA
+Back-End: JAVA
 </li>
 
